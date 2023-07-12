@@ -1,0 +1,13 @@
+.night {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.light {
+  color: #000000;
+  background-color: #ffffff;
+}
+
+.risk {
+  text-decoration: line-through
+}
