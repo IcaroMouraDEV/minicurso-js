@@ -39,8 +39,14 @@
 
 .palette input.color {
   border: none;
-  height: 40px;
-  width: 40px;
+}
+
+.form {
+  margin: 20px 0;
+}
+
+.form .form-item {
+  padding: 5px 0;
 }
 
 .board {
