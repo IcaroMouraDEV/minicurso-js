@@ -46,4 +46,4 @@ const addEvent = (li) => {
   })
 }
 
-// Exercicio bonus - salvar as tarefas no localStorage (para não perdelos quando att a pagina)
+// Exercicio bonus - salvar as tarefas no localStorage (para não perde-los quando att a pagina)
